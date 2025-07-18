@@ -16,3 +16,16 @@ raw_logs = [
     "2025-07-17 10:06:35 ERROR User John failed password attempt",
     "2025-07-17 10:07:12 CRITICAL System crash on node-03"
 ]
+
+# Drain3 parser setup
+template_miner = TemplateMiner()
+
+parsed_logs = []
+
+for line in raw_logs:
+    result = template_miner.add_log_message(line)
+    if result is not None:
+        parsed_logs.append({
+            "log": line,
+            "template": result["template_mined"]
+        })
