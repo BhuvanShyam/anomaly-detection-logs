@@ -32,3 +32,21 @@ for line in raw_logs:
 
 # Create DataFrame
 df = pd.DataFrame(parsed_logs)
+
+
+# Encode templates as numeric features
+df['template_id'] = pd.factorize(df['template'])[0]
+
+# Isolation Forest expects 2D features
+X = df[['template_id']]
+
+# Train Isolation Forest model
+model = IsolationForest(contamination=0.2, random_state=42)
+df['anomaly'] = model.fit_predict(X)
+
+# Map results
+df['anomaly'] = df['anomaly'].map({1: 'Normal', -1: 'Anomaly'})
+
+# Display results
+for i, row in df.iterrows():
+    print(f"[{row['anomaly']}] {row['log']}")
