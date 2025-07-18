@@ -1,0 +1,1002 @@
+=== Final Anomaly Detection Results ===
+
+[Normal] 2025-07-17 10:00:00 INFO User Victor logged out
+[Normal] 2025-07-17 10:00:36 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 10:01:24 INFO User Paul logged out
+[Normal] 2025-07-17 10:01:57 WARNING CPU temperature high: 93°C
+[Normal] 2025-07-17 10:03:05 INFO User Grace logged in from 10.0.0.29
+[Normal] 2025-07-17 10:04:00 WARNING High CPU usage detected
+[Normal] 2025-07-17 10:05:00 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 10:05:35 INFO User Paul logged in from 10.0.0.27
+[Anomaly] 2025-07-17 10:06:23 CRITICAL System crash on node-05
+[Anomaly] 2025-07-17 10:07:17 ERROR Unauthorized login attempt from 192.168.1.6
+[Normal] 2025-07-17 10:08:33 INFO User Liam logged out
+[Normal] 2025-07-17 10:09:36 INFO User Xavier logged out
+[Normal] 2025-07-17 10:10:29 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 10:11:33 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 10:12:27 ERROR Failed password attempt for User Nina
+[Normal] 2025-07-17 10:13:14 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 10:13:57 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 10:14:25 INFO User Mike logged out
+[Normal] 2025-07-17 10:14:54 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 10:15:56 CRITICAL System crash on node-01
+[Normal] 2025-07-17 10:16:26 INFO User Victor logged in from 10.0.0.16
+[Normal] 2025-07-17 10:16:53 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 10:17:21 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 10:18:19 ERROR Unauthorized login attempt from 192.168.1.122
+[Normal] 2025-07-17 10:19:36 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 10:20:18 CRITICAL System crash on node-05
+[Anomaly] 2025-07-17 10:20:58 ERROR Unauthorized login attempt from 192.168.1.177
+[Normal] 2025-07-17 10:21:39 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 10:22:52 ERROR Failed password attempt for User Victor
+[Normal] 2025-07-17 10:23:17 WARNING High CPU usage detected
+[Normal] 2025-07-17 10:23:48 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 10:25:07 INFO User Liam logged out
+[Normal] 2025-07-17 10:26:02 WARNING High memory usage detected
+[Anomaly] 2025-07-17 10:26:44 ERROR Unauthorized access to restricted file by User Paul
+[Normal] 2025-07-17 10:27:16 INFO User Yolanda logged in from 10.0.0.8
+[Normal] 2025-07-17 10:28:16 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 10:28:57 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 10:29:45 WARNING High memory usage detected
+[Normal] 2025-07-17 10:30:52 WARNING High CPU usage detected
+[Normal] 2025-07-17 10:31:36 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 10:32:33 INFO User Irene logged in from 10.0.0.21
+[Normal] 2025-07-17 10:33:45 INFO User Victor logged out
+[Normal] 2025-07-17 10:34:37 WARNING Disk usage at 78% on /dev/sda1
+[Normal] 2025-07-17 10:35:57 WARNING High network latency detected
+[Normal] 2025-07-17 10:37:07 INFO User Xavier logged out
+[Normal] 2025-07-17 10:37:59 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 10:39:17 WARNING Disk usage at 87% on /dev/sda1
+[Normal] 2025-07-17 10:40:26 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 10:41:00 WARNING High memory usage detected
+[Anomaly] 2025-07-17 10:41:58 ERROR Failed password attempt for User Alice
+[Normal] 2025-07-17 10:42:43 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 10:43:15 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 10:44:02 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 10:44:45 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 10:45:30 INFO User Mike logged in from 10.0.0.32
+[Normal] 2025-07-17 10:46:20 WARNING High memory usage detected
+[Normal] 2025-07-17 10:47:17 INFO User Uma logged out
+[Anomaly] 2025-07-17 10:48:18 CRITICAL System crash on node-03
+[Anomaly] 2025-07-17 10:49:37 ERROR Failed password attempt for User Victor
+[Normal] 2025-07-17 10:50:08 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 10:50:33 ERROR Unauthorized access to restricted file by User Irene
+[Anomaly] 2025-07-17 10:51:33 CRITICAL System crash on node-05
+[Anomaly] 2025-07-17 10:52:24 CRITICAL System crash on node-03
+[Normal] 2025-07-17 10:53:19 WARNING High memory usage detected
+[Normal] 2025-07-17 10:54:30 INFO User Zach logged out
+[Normal] 2025-07-17 10:55:18 INFO User Yolanda logged in from 10.0.0.7
+[Normal] 2025-07-17 10:55:47 INFO User Jack logged in from 10.0.0.15
+[Normal] 2025-07-17 10:56:53 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 10:57:33 INFO User Steve logged out
+[Anomaly] 2025-07-17 10:58:00 ERROR Unauthorized access to restricted file by User Victor
+[Normal] 2025-07-17 10:58:21 INFO User Zach logged in from 10.0.0.16
+[Normal] 2025-07-17 10:59:20 WARNING CPU temperature high: 92°C
+[Normal] 2025-07-17 11:00:22 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 11:00:45 INFO User Xavier logged in from 10.0.0.30
+[Anomaly] 2025-07-17 11:01:43 CRITICAL System crash on node-05
+[Anomaly] 2025-07-17 11:02:49 ERROR Unauthorized access to restricted file by User Jack
+[Normal] 2025-07-17 11:04:06 WARNING Disk usage at 89% on /dev/sda1
+[Anomaly] 2025-07-17 11:04:29 ERROR Failed password attempt for User Nina
+[Normal] 2025-07-17 11:05:41 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 11:06:32 WARNING High CPU usage detected
+[Normal] 2025-07-17 11:06:55 INFO User Paul logged out
+[Normal] 2025-07-17 11:08:06 INFO User Mike logged out
+[Normal] 2025-07-17 11:08:59 INFO User Xavier logged out
+[Normal] 2025-07-17 11:10:17 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 11:10:57 INFO User Wendy logged out
+[Normal] 2025-07-17 11:12:16 WARNING High memory usage detected
+[Anomaly] 2025-07-17 11:13:05 ERROR Failed password attempt for User Liam
+[Normal] 2025-07-17 11:14:01 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 11:14:31 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 11:14:56 INFO User Zach logged out
+[Normal] 2025-07-17 11:15:58 INFO User Quinn logged in from 10.0.0.14
+[Normal] 2025-07-17 11:16:26 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 11:16:52 ERROR Failed password attempt for User Rachel
+[Normal] 2025-07-17 11:17:39 WARNING High memory usage detected
+[Anomaly] 2025-07-17 11:18:38 ERROR Unauthorized login attempt from 192.168.1.255
+[Normal] 2025-07-17 11:19:38 INFO User Alice logged out
+[Normal] 2025-07-17 11:20:51 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 11:22:10 INFO User Zach logged in from 10.0.0.21
+[Normal] 2025-07-17 11:22:38 WARNING High network latency detected
+[Normal] 2025-07-17 11:22:59 INFO User Liam logged out
+[Normal] 2025-07-17 11:23:43 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 11:24:07 ERROR Failed password attempt for User Victor
+[Normal] 2025-07-17 11:25:21 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 11:26:11 CRITICAL System crash on node-03
+[Normal] 2025-07-17 11:26:49 INFO User Zach logged out
+[Anomaly] 2025-07-17 11:28:00 ERROR Failed password attempt for User Nina
+[Normal] 2025-07-17 11:28:25 INFO User Steve logged out
+[Anomaly] 2025-07-17 11:29:03 ERROR Unauthorized login attempt from 192.168.1.131
+[Anomaly] 2025-07-17 11:29:30 ERROR Failed password attempt for User Paul
+[Normal] 2025-07-17 11:30:05 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 11:30:54 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 11:31:15 ERROR Unauthorized login attempt from 192.168.1.147
+[Anomaly] 2025-07-17 11:32:30 ERROR Unauthorized login attempt from 192.168.1.220
+[Anomaly] 2025-07-17 11:32:56 ERROR Unauthorized access to restricted file by User Uma
+[Normal] 2025-07-17 11:33:32 INFO User Alice logged in from 10.0.0.6
+[Normal] 2025-07-17 11:34:41 INFO User Victor logged in from 10.0.0.14
+[Anomaly] 2025-07-17 11:35:12 ERROR Failed password attempt for User Victor
+[Normal] 2025-07-17 11:35:57 WARNING High network latency detected
+[Normal] 2025-07-17 11:37:02 INFO User Yolanda logged in from 10.0.0.31
+[Normal] 2025-07-17 11:38:02 WARNING High network latency detected
+[Normal] 2025-07-17 11:38:23 INFO User Grace logged in from 10.0.0.29
+[Anomaly] 2025-07-17 11:38:45 ERROR Unauthorized login attempt from 192.168.1.51
+[Normal] 2025-07-17 11:39:06 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 11:40:02 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 11:41:00 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 11:42:05 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 11:42:25 WARNING High CPU usage detected
+[Normal] 2025-07-17 11:42:53 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 11:43:54 WARNING CPU temperature high: 94°C
+[Normal] 2025-07-17 11:45:12 WARNING CPU temperature high: 91°C
+[Normal] 2025-07-17 11:45:36 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 11:46:37 CRITICAL System crash on node-02
+[Normal] 2025-07-17 11:47:21 WARNING High network latency detected
+[Anomaly] 2025-07-17 11:47:57 ERROR Unauthorized access to restricted file by User Rachel
+[Normal] 2025-07-17 11:48:37 INFO User Oscar logged out
+[Normal] 2025-07-17 11:49:01 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 11:49:48 INFO User Liam logged out
+[Normal] 2025-07-17 11:50:22 WARNING High CPU usage detected
+[Normal] 2025-07-17 11:51:17 WARNING CPU temperature high: 93°C
+[Normal] 2025-07-17 11:52:04 INFO User Uma logged out
+[Normal] 2025-07-17 11:52:46 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 11:53:35 ERROR Unauthorized access to restricted file by User Uma
+[Anomaly] 2025-07-17 11:54:13 ERROR Failed password attempt for User Kate
+[Normal] 2025-07-17 11:55:19 WARNING High memory usage detected
+[Normal] 2025-07-17 11:56:21 INFO User Steve logged in from 10.0.0.32
+[Anomaly] 2025-07-17 11:56:55 ERROR Unauthorized login attempt from 192.168.1.28
+[Normal] 2025-07-17 11:58:12 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 11:58:50 INFO User Victor logged in from 10.0.0.14
+[Normal] 2025-07-17 12:00:03 INFO User Frank logged out
+[Normal] 2025-07-17 12:01:02 INFO User Kate logged out
+[Anomaly] 2025-07-17 12:01:25 ERROR Failed password attempt for User Nina
+[Anomaly] 2025-07-17 12:02:38 ERROR Failed password attempt for User Liam
+[Normal] 2025-07-17 12:03:47 INFO User Zach logged out
+[Normal] 2025-07-17 12:04:31 INFO User Uma logged in from 10.0.0.26
+[Normal] 2025-07-17 12:05:45 WARNING Disk usage at 82% on /dev/sda1
+[Normal] 2025-07-17 12:06:49 WARNING Disk usage at 79% on /dev/sda1
+[Normal] 2025-07-17 12:08:01 INFO User Victor logged in from 10.0.0.28
+[Normal] 2025-07-17 12:09:17 WARNING High CPU usage detected
+[Anomaly] 2025-07-17 12:10:16 ERROR Unauthorized login attempt from 192.168.1.205
+[Normal] 2025-07-17 12:11:23 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 12:11:48 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 12:12:41 ERROR Failed password attempt for User Irene
+[Anomaly] 2025-07-17 12:13:39 ERROR Unauthorized login attempt from 192.168.1.9
+[Anomaly] 2025-07-17 12:14:24 ERROR Failed password attempt for User Henry
+[Normal] 2025-07-17 12:15:06 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 12:16:18 ERROR Unauthorized access to restricted file by User Paul
+[Normal] 2025-07-17 12:16:56 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 12:17:55 WARNING CPU temperature high: 90°C
+[Normal] 2025-07-17 12:18:21 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 12:19:18 WARNING High memory usage detected
+[Normal] 2025-07-17 12:19:39 INFO User Mike logged in from 10.0.0.17
+[Normal] 2025-07-17 12:19:59 INFO User Kate logged out
+[Normal] 2025-07-17 12:20:50 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 12:22:09 WARNING CPU temperature high: 86°C
+[Normal] 2025-07-17 12:23:22 INFO User Frank logged out
+[Normal] 2025-07-17 12:24:11 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 12:25:06 INFO User Mike logged in from 10.0.0.15
+[Normal] 2025-07-17 12:25:30 INFO User Zach logged in from 10.0.0.11
+[Normal] 2025-07-17 12:26:01 INFO User Paul logged in from 10.0.0.29
+[Normal] 2025-07-17 12:26:21 INFO User Oscar logged in from 10.0.0.17
+[Normal] 2025-07-17 12:27:36 INFO User Victor logged out
+[Normal] 2025-07-17 12:28:40 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 12:29:00 INFO User Victor logged out
+[Normal] 2025-07-17 12:29:58 INFO User Irene logged out
+[Normal] 2025-07-17 12:30:27 INFO User Oscar logged out
+[Normal] 2025-07-17 12:31:32 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 12:32:26 WARNING High CPU usage detected
+[Anomaly] 2025-07-17 12:33:43 ERROR Unauthorized login attempt from 192.168.1.249
+[Normal] 2025-07-17 12:34:50 WARNING CPU temperature high: 95°C
+[Normal] 2025-07-17 12:35:36 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 12:36:56 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 12:37:18 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 12:38:33 CRITICAL System crash on node-02
+[Normal] 2025-07-17 12:39:49 INFO User Zach logged out
+[Normal] 2025-07-17 12:40:55 INFO User Steve logged in from 10.0.0.8
+[Anomaly] 2025-07-17 12:41:54 ERROR Unauthorized access to restricted file by User Yolanda
+[Normal] 2025-07-17 12:42:52 WARNING Disk usage at 85% on /dev/sda1
+[Normal] 2025-07-17 12:43:25 INFO User Xavier logged in from 10.0.0.7
+[Normal] 2025-07-17 12:44:45 INFO User Oscar logged in from 10.0.0.27
+[Normal] 2025-07-17 12:45:57 WARNING High memory usage detected
+[Normal] 2025-07-17 12:46:45 INFO User Alice logged in from 10.0.0.21
+[Normal] 2025-07-17 12:47:19 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 12:47:42 ERROR Unauthorized login attempt from 192.168.1.51
+[Normal] 2025-07-17 12:48:28 INFO User Zach logged out
+[Anomaly] 2025-07-17 12:48:49 CRITICAL System crash on node-05
+[Normal] 2025-07-17 12:49:24 INFO User Rachel logged out
+[Normal] 2025-07-17 12:50:06 INFO User Xavier logged in from 10.0.0.20
+[Anomaly] 2025-07-17 12:50:55 ERROR Unauthorized login attempt from 192.168.1.104
+[Normal] 2025-07-17 12:51:42 WARNING High network latency detected
+[Normal] 2025-07-17 12:52:51 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 12:53:32 INFO User Mike logged in from 10.0.0.18
+[Normal] 2025-07-17 12:54:34 INFO User Alice logged out
+[Normal] 2025-07-17 12:55:32 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 12:56:34 ERROR Failed password attempt for User Zach
+[Normal] 2025-07-17 12:57:17 INFO User Wendy logged in from 10.0.0.6
+[Anomaly] 2025-07-17 12:58:37 ERROR Unauthorized login attempt from 192.168.1.70
+[Normal] 2025-07-17 12:59:06 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 12:59:47 ERROR Unauthorized login attempt from 192.168.1.135
+[Normal] 2025-07-17 13:00:07 INFO User Mike logged in from 10.0.0.12
+[Anomaly] 2025-07-17 13:01:04 ERROR Unauthorized login attempt from 192.168.1.43
+[Normal] 2025-07-17 13:02:13 WARNING CPU temperature high: 93°C
+[Normal] 2025-07-17 13:03:32 INFO User Kate logged out
+[Normal] 2025-07-17 13:04:21 INFO User Zach logged out
+[Anomaly] 2025-07-17 13:05:23 ERROR Unauthorized login attempt from 192.168.1.242
+[Anomaly] 2025-07-17 13:06:29 CRITICAL System crash on node-05
+[Anomaly] 2025-07-17 13:07:38 ERROR Unauthorized access to restricted file by User Henry
+[Normal] 2025-07-17 13:08:05 INFO User Zach logged out
+[Normal] 2025-07-17 13:09:08 WARNING Disk usage at 88% on /dev/sda1
+[Normal] 2025-07-17 13:10:06 INFO User Mike logged in from 10.0.0.32
+[Anomaly] 2025-07-17 13:11:14 CRITICAL System crash on node-04
+[Normal] 2025-07-17 13:12:17 INFO User Kate logged in from 10.0.0.8
+[Normal] 2025-07-17 13:13:08 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 13:13:28 INFO User Henry logged out
+[Anomaly] 2025-07-17 13:13:57 ERROR Unauthorized login attempt from 192.168.1.186
+[Normal] 2025-07-17 13:15:10 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 13:15:38 ERROR Unauthorized login attempt from 192.168.1.72
+[Normal] 2025-07-17 13:16:02 WARNING High CPU usage detected
+[Normal] 2025-07-17 13:16:58 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 13:17:22 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 13:18:09 ERROR Failed password attempt for User Oscar
+[Anomaly] 2025-07-17 13:19:18 ERROR Failed password attempt for User Grace
+[Anomaly] 2025-07-17 13:20:05 ERROR Unauthorized login attempt from 192.168.1.118
+[Normal] 2025-07-17 13:21:16 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 13:21:55 INFO User Frank logged in from 10.0.0.4
+[Normal] 2025-07-17 13:22:22 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 13:22:57 WARNING High network latency detected
+[Normal] 2025-07-17 13:23:49 WARNING CPU temperature high: 86°C
+[Anomaly] 2025-07-17 13:24:27 CRITICAL System crash on node-02
+[Anomaly] 2025-07-17 13:25:38 CRITICAL System crash on node-02
+[Normal] 2025-07-17 13:26:43 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 13:27:34 ERROR Unauthorized login attempt from 192.168.1.85
+[Normal] 2025-07-17 13:28:54 INFO User Quinn logged in from 10.0.0.28
+[Normal] 2025-07-17 13:29:30 INFO User Mike logged in from 10.0.0.30
+[Normal] 2025-07-17 13:30:46 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 13:31:16 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 13:32:30 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 13:33:33 INFO User Wendy logged in from 10.0.0.23
+[Normal] 2025-07-17 13:34:53 INFO User Liam logged out
+[Anomaly] 2025-07-17 13:35:43 ERROR Unauthorized access to restricted file by User Steve
+[Normal] 2025-07-17 13:36:23 WARNING Disk usage at 93% on /dev/sda1
+[Normal] 2025-07-17 13:37:14 WARNING CPU temperature high: 94°C
+[Normal] 2025-07-17 13:38:13 WARNING Disk usage at 87% on /dev/sda1
+[Normal] 2025-07-17 13:39:15 INFO User Oscar logged out
+[Normal] 2025-07-17 13:39:44 INFO User Liam logged out
+[Anomaly] 2025-07-17 13:40:37 ERROR Failed password attempt for User Irene
+[Normal] 2025-07-17 13:41:19 WARNING CPU temperature high: 90°C
+[Anomaly] 2025-07-17 13:42:32 ERROR Unauthorized login attempt from 192.168.1.155
+[Anomaly] 2025-07-17 13:43:03 ERROR Unauthorized access to restricted file by User Liam
+[Anomaly] 2025-07-17 13:44:19 ERROR Failed password attempt for User Jack
+[Normal] 2025-07-17 13:45:33 WARNING High network latency detected
+[Normal] 2025-07-17 13:46:27 WARNING Disk usage at 82% on /dev/sda1
+[Normal] 2025-07-17 13:46:56 INFO User Jack logged out
+[Normal] 2025-07-17 13:47:39 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 13:48:19 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 13:49:25 INFO User Henry logged out
+[Normal] 2025-07-17 13:49:48 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 13:50:57 INFO User Quinn logged in from 10.0.0.4
+[Normal] 2025-07-17 13:51:18 INFO User Xavier logged in from 10.0.0.35
+[Normal] 2025-07-17 13:52:23 WARNING High CPU usage detected
+[Normal] 2025-07-17 13:52:56 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 13:53:59 INFO User Paul logged out
+[Normal] 2025-07-17 13:54:19 INFO User Wendy logged in from 10.0.0.34
+[Normal] 2025-07-17 13:55:33 INFO User Henry logged in from 10.0.0.33
+[Normal] 2025-07-17 13:56:18 WARNING Disk usage at 92% on /dev/sda1
+[Normal] 2025-07-17 13:57:24 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 13:58:12 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 13:58:37 INFO User Rachel logged out
+[Normal] 2025-07-17 13:59:25 INFO User Rachel logged out
+[Anomaly] 2025-07-17 14:00:29 ERROR Failed password attempt for User Yolanda
+[Anomaly] 2025-07-17 14:01:10 ERROR Unauthorized login attempt from 192.168.1.50
+[Anomaly] 2025-07-17 14:02:28 ERROR Failed password attempt for User Wendy
+[Anomaly] 2025-07-17 14:03:23 ERROR Unauthorized access to restricted file by User Irene
+[Normal] 2025-07-17 14:04:08 INFO User Alice logged out
+[Anomaly] 2025-07-17 14:04:39 ERROR Unauthorized access to restricted file by User Wendy
+[Anomaly] 2025-07-17 14:05:42 ERROR Unauthorized access to restricted file by User Mike
+[Normal] 2025-07-17 14:06:07 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:06:35 INFO User Irene logged in from 10.0.0.14
+[Normal] 2025-07-17 14:06:57 INFO User Steve logged out
+[Normal] 2025-07-17 14:08:11 WARNING CPU temperature high: 88°C
+[Normal] 2025-07-17 14:09:21 INFO User Uma logged in from 10.0.0.25
+[Anomaly] 2025-07-17 14:10:28 CRITICAL System crash on node-02
+[Anomaly] 2025-07-17 14:11:27 CRITICAL System crash on node-01
+[Normal] 2025-07-17 14:12:28 INFO User Wendy logged out
+[Normal] 2025-07-17 14:12:54 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:14:03 INFO User Grace logged out
+[Normal] 2025-07-17 14:15:11 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 14:15:55 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 14:17:04 ERROR Failed password attempt for User Paul
+[Normal] 2025-07-17 14:18:16 INFO User Henry logged out
+[Normal] 2025-07-17 14:18:36 WARNING High network latency detected
+[Anomaly] 2025-07-17 14:19:55 ERROR Failed password attempt for User Tina
+[Normal] 2025-07-17 14:20:49 INFO User Xavier logged in from 10.0.0.17
+[Normal] 2025-07-17 14:21:21 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:22:36 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:23:43 INFO User Irene logged out
+[Normal] 2025-07-17 14:25:03 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 14:25:53 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 14:26:46 INFO User Kate logged in from 10.0.0.27
+[Normal] 2025-07-17 14:27:55 INFO User Tina logged out
+[Normal] 2025-07-17 14:28:54 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:30:06 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 14:30:35 WARNING High CPU usage detected
+[Normal] 2025-07-17 14:31:31 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:32:22 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 14:32:52 ERROR Unauthorized access to restricted file by User Nina
+[Normal] 2025-07-17 14:33:44 INFO User Steve logged out
+[Anomaly] 2025-07-17 14:34:56 CRITICAL System crash on node-02
+[Normal] 2025-07-17 14:36:03 INFO User Rachel logged out
+[Normal] 2025-07-17 14:36:49 INFO User Quinn logged in from 10.0.0.18
+[Normal] 2025-07-17 14:37:45 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:38:55 INFO User Rachel logged out
+[Anomaly] 2025-07-17 14:39:35 CRITICAL System crash on node-03
+[Normal] 2025-07-17 14:40:55 WARNING High CPU usage detected
+[Normal] 2025-07-17 14:41:36 WARNING Disk usage at 83% on /dev/sda1
+[Normal] 2025-07-17 14:42:04 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 14:42:45 WARNING CPU temperature high: 87°C
+[Normal] 2025-07-17 14:43:06 WARNING High CPU usage detected
+[Normal] 2025-07-17 14:43:40 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:44:10 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 14:44:30 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:44:56 INFO User Xavier logged in from 10.0.0.33
+[Normal] 2025-07-17 14:46:12 INFO User Paul logged out
+[Normal] 2025-07-17 14:46:57 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:47:42 WARNING High network latency detected
+[Normal] 2025-07-17 14:48:10 INFO User Steve logged in from 10.0.0.1
+[Normal] 2025-07-17 14:48:39 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 14:49:30 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:50:47 WARNING High network latency detected
+[Normal] 2025-07-17 14:51:22 INFO User Mike logged in from 10.0.0.17
+[Anomaly] 2025-07-17 14:52:07 CRITICAL System crash on node-01
+[Normal] 2025-07-17 14:52:28 WARNING CPU temperature high: 92°C
+[Normal] 2025-07-17 14:53:45 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 14:54:08 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 14:55:28 ERROR Unauthorized login attempt from 192.168.1.97
+[Anomaly] 2025-07-17 14:56:19 ERROR Unauthorized access to restricted file by User Alice
+[Normal] 2025-07-17 14:56:43 INFO User Nina logged in from 10.0.0.12
+[Normal] 2025-07-17 14:57:04 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 14:57:41 WARNING High CPU usage detected
+[Normal] 2025-07-17 14:58:40 INFO User Victor logged out
+[Normal] 2025-07-17 14:59:26 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 15:00:28 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 15:01:03 INFO User Kate logged out
+[Normal] 2025-07-17 15:01:26 INFO User Henry logged out
+[Anomaly] 2025-07-17 15:02:39 ERROR Unauthorized login attempt from 192.168.1.252
+[Normal] 2025-07-17 15:03:09 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 15:03:29 INFO User Quinn logged in from 10.0.0.24
+[Normal] 2025-07-17 15:04:25 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 15:04:58 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 15:05:57 WARNING Disk usage at 81% on /dev/sda1
+[Anomaly] 2025-07-17 15:06:37 ERROR Failed password attempt for User Oscar
+[Normal] 2025-07-17 15:07:09 WARNING High memory usage detected
+[Normal] 2025-07-17 15:08:08 WARNING Disk usage at 92% on /dev/sda1
+[Normal] 2025-07-17 15:08:45 INFO User Henry logged out
+[Normal] 2025-07-17 15:09:53 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 15:10:57 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 15:12:07 CRITICAL System crash on node-05
+[Normal] 2025-07-17 15:12:29 INFO User Wendy logged in from 10.0.0.12
+[Anomaly] 2025-07-17 15:13:08 CRITICAL System crash on node-03
+[Normal] 2025-07-17 15:14:26 INFO User Oscar logged in from 10.0.0.21
+[Normal] 2025-07-17 15:15:34 WARNING High CPU usage detected
+[Anomaly] 2025-07-17 15:16:06 ERROR Failed password attempt for User Oscar
+[Normal] 2025-07-17 15:16:40 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 15:17:17 WARNING CPU temperature high: 90°C
+[Normal] 2025-07-17 15:17:42 WARNING Disk usage at 92% on /dev/sda1
+[Normal] 2025-07-17 15:18:59 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 15:20:11 INFO User Uma logged in from 10.0.0.19
+[Normal] 2025-07-17 15:21:19 INFO User Wendy logged out
+[Anomaly] 2025-07-17 15:22:23 ERROR Failed password attempt for User Alice
+[Anomaly] 2025-07-17 15:23:01 CRITICAL System crash on node-04
+[Normal] 2025-07-17 15:23:22 INFO User Xavier logged in from 10.0.0.12
+[Normal] 2025-07-17 15:24:19 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 15:24:48 ERROR Failed password attempt for User Rachel
+[Normal] 2025-07-17 15:25:32 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 15:26:05 ERROR Unauthorized login attempt from 192.168.1.229
+[Normal] 2025-07-17 15:26:34 WARNING CPU temperature high: 85°C
+[Normal] 2025-07-17 15:27:32 INFO User Oscar logged in from 10.0.0.8
+[Normal] 2025-07-17 15:28:20 INFO User Henry logged out
+[Normal] 2025-07-17 15:28:54 WARNING High memory usage detected
+[Normal] 2025-07-17 15:29:59 INFO User Rachel logged in from 10.0.0.10
+[Normal] 2025-07-17 15:31:03 INFO User Uma logged out
+[Normal] 2025-07-17 15:31:50 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 15:32:40 INFO User Steve logged in from 10.0.0.15
+[Anomaly] 2025-07-17 15:33:06 CRITICAL System crash on node-04
+[Anomaly] 2025-07-17 15:34:00 ERROR Unauthorized login attempt from 192.168.1.22
+[Normal] 2025-07-17 15:34:37 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 15:35:46 INFO User Steve logged out
+[Normal] 2025-07-17 15:36:35 WARNING High network latency detected
+[Normal] 2025-07-17 15:37:08 INFO User Xavier logged out
+[Normal] 2025-07-17 15:37:57 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 15:38:53 ERROR Unauthorized login attempt from 192.168.1.59
+[Normal] 2025-07-17 15:39:24 WARNING High CPU usage detected
+[Normal] 2025-07-17 15:40:32 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 15:41:33 WARNING Disk usage at 91% on /dev/sda1
+[Normal] 2025-07-17 15:42:48 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 15:44:06 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 15:45:03 WARNING High network latency detected
+[Normal] 2025-07-17 15:45:33 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 15:46:13 ERROR Failed password attempt for User Wendy
+[Normal] 2025-07-17 15:46:37 WARNING Disk usage at 83% on /dev/sda1
+[Normal] 2025-07-17 15:47:38 INFO User Yolanda logged out
+[Normal] 2025-07-17 15:48:52 WARNING High network latency detected
+[Anomaly] 2025-07-17 15:49:55 ERROR Failed password attempt for User Paul
+[Normal] 2025-07-17 15:50:27 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 15:51:17 ERROR Unauthorized access to restricted file by User Irene
+[Normal] 2025-07-17 15:52:16 INFO User Kate logged out
+[Normal] 2025-07-17 15:53:34 WARNING High network latency detected
+[Normal] 2025-07-17 15:54:51 WARNING High network latency detected
+[Normal] 2025-07-17 15:55:26 WARNING CPU temperature high: 87°C
+[Normal] 2025-07-17 15:55:59 WARNING High network latency detected
+[Normal] 2025-07-17 15:56:38 INFO User Wendy logged in from 10.0.0.13
+[Normal] 2025-07-17 15:57:10 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 15:58:25 WARNING CPU temperature high: 92°C
+[Normal] 2025-07-17 15:59:42 INFO User Liam logged in from 10.0.0.12
+[Anomaly] 2025-07-17 16:00:07 ERROR Unauthorized login attempt from 192.168.1.74
+[Normal] 2025-07-17 16:00:50 WARNING Disk usage at 83% on /dev/sda1
+[Anomaly] 2025-07-17 16:01:50 ERROR Unauthorized login attempt from 192.168.1.117
+[Normal] 2025-07-17 16:02:22 INFO User Mike logged out
+[Normal] 2025-07-17 16:03:28 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 16:04:18 ERROR Unauthorized access to restricted file by User Liam
+[Anomaly] 2025-07-17 16:05:31 CRITICAL System crash on node-03
+[Normal] 2025-07-17 16:06:13 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 16:07:23 WARNING High CPU usage detected
+[Normal] 2025-07-17 16:08:39 INFO User Grace logged out
+[Anomaly] 2025-07-17 16:09:45 CRITICAL System crash on node-05
+[Normal] 2025-07-17 16:10:53 WARNING High CPU usage detected
+[Normal] 2025-07-17 16:11:24 INFO User Kate logged out
+[Normal] 2025-07-17 16:12:23 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 16:12:46 CRITICAL System crash on node-03
+[Anomaly] 2025-07-17 16:13:23 ERROR Failed password attempt for User Grace
+[Normal] 2025-07-17 16:14:28 INFO User Henry logged out
+[Normal] 2025-07-17 16:15:36 INFO User Irene logged in from 10.0.0.26
+[Anomaly] 2025-07-17 16:16:26 CRITICAL System crash on node-03
+[Normal] 2025-07-17 16:16:58 WARNING High CPU usage detected
+[Normal] 2025-07-17 16:18:03 INFO User Grace logged in from 10.0.0.35
+[Normal] 2025-07-17 16:19:02 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 16:19:41 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 16:20:16 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 16:20:57 INFO User Nina logged out
+[Normal] 2025-07-17 16:21:25 WARNING CPU temperature high: 94°C
+[Normal] 2025-07-17 16:22:36 INFO User Frank logged in from 10.0.0.30
+[Anomaly] 2025-07-17 16:23:30 ERROR Failed password attempt for User Xavier
+[Normal] 2025-07-17 16:24:30 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 16:24:56 ERROR Unauthorized login attempt from 192.168.1.85
+[Anomaly] 2025-07-17 16:25:57 ERROR Unauthorized login attempt from 192.168.1.23
+[Normal] 2025-07-17 16:26:52 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 16:27:30 ERROR Unauthorized access to restricted file by User Wendy
+[Anomaly] 2025-07-17 16:28:16 CRITICAL System crash on node-02
+[Normal] 2025-07-17 16:29:03 WARNING CPU temperature high: 89°C
+[Normal] 2025-07-17 16:30:22 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 16:31:11 INFO User Zach logged in from 10.0.0.29
+[Anomaly] 2025-07-17 16:31:52 CRITICAL System crash on node-02
+[Normal] 2025-07-17 16:32:45 INFO User Mike logged out
+[Anomaly] 2025-07-17 16:33:09 ERROR Unauthorized access to restricted file by User Victor
+[Normal] 2025-07-17 16:33:58 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 16:34:38 WARNING High memory usage detected
+[Normal] 2025-07-17 16:35:25 WARNING Disk usage at 93% on /dev/sda1
+[Normal] 2025-07-17 16:36:13 WARNING High memory usage detected
+[Normal] 2025-07-17 16:36:55 INFO User Xavier logged out
+[Normal] 2025-07-17 16:38:08 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 16:39:25 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 16:39:59 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 16:40:41 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 16:41:36 INFO User Xavier logged in from 10.0.0.10
+[Normal] 2025-07-17 16:42:07 INFO User Frank logged in from 10.0.0.14
+[Normal] 2025-07-17 16:43:12 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 16:43:45 ERROR Unauthorized login attempt from 192.168.1.245
+[Normal] 2025-07-17 16:44:56 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 16:45:34 WARNING High CPU usage detected
+[Normal] 2025-07-17 16:46:47 WARNING High CPU usage detected
+[Normal] 2025-07-17 16:47:18 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 16:48:35 WARNING High network latency detected
+[Normal] 2025-07-17 16:49:34 INFO User Yolanda logged out
+[Normal] 2025-07-17 16:50:53 WARNING High CPU usage detected
+[Normal] 2025-07-17 16:52:05 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 16:52:47 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 16:53:27 CRITICAL System crash on node-03
+[Normal] 2025-07-17 16:54:23 WARNING High CPU usage detected
+[Anomaly] 2025-07-17 16:55:11 ERROR Failed password attempt for User Jack
+[Normal] 2025-07-17 16:56:21 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 16:57:21 INFO User Quinn logged out
+[Normal] 2025-07-17 16:58:39 WARNING High memory usage detected
+[Normal] 2025-07-17 16:59:28 INFO User Quinn logged out
+[Normal] 2025-07-17 17:00:43 INFO User Mike logged in from 10.0.0.33
+[Anomaly] 2025-07-17 17:01:43 ERROR Unauthorized login attempt from 192.168.1.116
+[Anomaly] 2025-07-17 17:02:57 ERROR Unauthorized login attempt from 192.168.1.60
+[Normal] 2025-07-17 17:04:07 INFO User Paul logged out
+[Normal] 2025-07-17 17:04:30 INFO User Quinn logged out
+[Normal] 2025-07-17 17:05:25 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 17:06:31 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 17:06:55 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 17:07:53 INFO User Quinn logged in from 10.0.0.30
+[Normal] 2025-07-17 17:08:56 INFO User Wendy logged out
+[Normal] 2025-07-17 17:09:42 WARNING High CPU usage detected
+[Normal] 2025-07-17 17:10:56 INFO User Paul logged out
+[Anomaly] 2025-07-17 17:11:50 ERROR Failed password attempt for User Kate
+[Normal] 2025-07-17 17:12:28 INFO User Kate logged out
+[Anomaly] 2025-07-17 17:12:59 ERROR Unauthorized login attempt from 192.168.1.13
+[Normal] 2025-07-17 17:13:52 INFO User Rachel logged out
+[Normal] 2025-07-17 17:15:06 WARNING High CPU usage detected
+[Normal] 2025-07-17 17:16:09 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 17:17:25 ERROR Unauthorized login attempt from 192.168.1.57
+[Normal] 2025-07-17 17:17:50 WARNING High memory usage detected
+[Normal] 2025-07-17 17:18:22 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 17:19:18 ERROR Failed password attempt for User Grace
+[Anomaly] 2025-07-17 17:20:03 ERROR Unauthorized login attempt from 192.168.1.107
+[Normal] 2025-07-17 17:21:04 INFO User Yolanda logged in from 10.0.0.32
+[Normal] 2025-07-17 17:21:31 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 17:22:40 ERROR Unauthorized access to restricted file by User Irene
+[Normal] 2025-07-17 17:23:39 WARNING CPU temperature high: 86°C
+[Normal] 2025-07-17 17:24:49 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 17:25:59 INFO User Kate logged out
+[Normal] 2025-07-17 17:26:24 WARNING CPU temperature high: 88°C
+[Anomaly] 2025-07-17 17:26:59 CRITICAL System crash on node-04
+[Normal] 2025-07-17 17:28:03 INFO User Frank logged in from 10.0.0.11
+[Normal] 2025-07-17 17:28:28 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 17:28:54 INFO User Oscar logged in from 10.0.0.28
+[Normal] 2025-07-17 17:29:17 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 17:29:51 INFO User Victor logged in from 10.0.0.23
+[Normal] 2025-07-17 17:30:22 INFO User Victor logged in from 10.0.0.2
+[Normal] 2025-07-17 17:31:41 INFO User Kate logged out
+[Normal] 2025-07-17 17:32:37 INFO User Kate logged out
+[Normal] 2025-07-17 17:33:46 WARNING High memory usage detected
+[Normal] 2025-07-17 17:34:17 INFO User Zach logged out
+[Normal] 2025-07-17 17:35:24 WARNING CPU temperature high: 86°C
+[Anomaly] 2025-07-17 17:35:44 ERROR Failed password attempt for User Quinn
+[Normal] 2025-07-17 17:36:40 INFO User Jack logged in from 10.0.0.28
+[Normal] 2025-07-17 17:37:33 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 17:38:28 ERROR Unauthorized login attempt from 192.168.1.114
+[Normal] 2025-07-17 17:39:30 WARNING High memory usage detected
+[Normal] 2025-07-17 17:40:34 INFO User Wendy logged out
+[Normal] 2025-07-17 17:41:20 WARNING High memory usage detected
+[Anomaly] 2025-07-17 17:42:33 ERROR Failed password attempt for User Liam
+[Anomaly] 2025-07-17 17:43:14 ERROR Unauthorized access to restricted file by User Victor
+[Anomaly] 2025-07-17 17:44:27 ERROR Unauthorized login attempt from 192.168.1.215
+[Normal] 2025-07-17 17:45:21 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 17:46:07 INFO User Henry logged in from 10.0.0.8
+[Normal] 2025-07-17 17:47:16 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 17:47:42 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 17:48:07 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 17:48:52 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 17:49:51 INFO User Alice logged in from 10.0.0.9
+[Normal] 2025-07-17 17:50:27 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 17:50:55 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 17:51:29 INFO User Tina logged in from 10.0.0.21
+[Normal] 2025-07-17 17:52:29 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 17:53:14 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 17:54:33 WARNING High network latency detected
+[Normal] 2025-07-17 17:55:43 INFO User Alice logged out
+[Normal] 2025-07-17 17:56:16 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 17:56:44 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 17:57:57 INFO User Rachel logged out
+[Normal] 2025-07-17 17:58:27 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 17:59:14 WARNING Disk usage at 94% on /dev/sda1
+[Normal] 2025-07-17 17:59:50 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 18:00:44 ERROR Failed password attempt for User Liam
+[Anomaly] 2025-07-17 18:01:25 CRITICAL System crash on node-03
+[Anomaly] 2025-07-17 18:02:16 ERROR Failed password attempt for User Frank
+[Anomaly] 2025-07-17 18:03:22 ERROR Unauthorized login attempt from 192.168.1.163
+[Normal] 2025-07-17 18:03:52 INFO User Frank logged out
+[Normal] 2025-07-17 18:04:14 INFO User Rachel logged in from 10.0.0.17
+[Normal] 2025-07-17 18:04:46 INFO User Wendy logged in from 10.0.0.16
+[Normal] 2025-07-17 18:05:57 WARNING CPU temperature high: 95°C
+[Normal] 2025-07-17 18:06:44 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:07:10 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:08:13 INFO User Irene logged out
+[Normal] 2025-07-17 18:08:51 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 18:09:19 ERROR Unauthorized access to restricted file by User Victor
+[Normal] 2025-07-17 18:09:43 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 18:10:41 CRITICAL System crash on node-03
+[Normal] 2025-07-17 18:11:51 WARNING High CPU usage detected
+[Anomaly] 2025-07-17 18:12:54 CRITICAL System crash on node-03
+[Normal] 2025-07-17 18:13:45 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 18:14:21 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:15:33 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:16:22 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 18:17:40 INFO User Nina logged in from 10.0.0.33
+[Normal] 2025-07-17 18:18:28 WARNING High CPU usage detected
+[Anomaly] 2025-07-17 18:19:42 CRITICAL System crash on node-04
+[Normal] 2025-07-17 18:20:54 INFO User Irene logged out
+[Anomaly] 2025-07-17 18:22:14 ERROR Unauthorized access to restricted file by User Zach
+[Normal] 2025-07-17 18:23:24 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 18:24:37 INFO User Steve logged out
+[Normal] 2025-07-17 18:25:56 WARNING Disk usage at 76% on /dev/sda1
+[Normal] 2025-07-17 18:26:34 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 18:27:25 INFO User Tina logged in from 10.0.0.18
+[Normal] 2025-07-17 18:27:52 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:28:16 INFO User Frank logged out
+[Normal] 2025-07-17 18:29:16 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 18:29:46 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:30:29 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 18:31:29 WARNING High network latency detected
+[Normal] 2025-07-17 18:32:47 WARNING High memory usage detected
+[Normal] 2025-07-17 18:33:28 INFO User Xavier logged out
+[Normal] 2025-07-17 18:34:05 WARNING High memory usage detected
+[Normal] 2025-07-17 18:35:17 INFO User Henry logged out
+[Anomaly] 2025-07-17 18:35:51 ERROR Unauthorized login attempt from 192.168.1.200
+[Normal] 2025-07-17 18:37:06 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 18:38:01 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:39:02 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:39:44 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:40:29 WARNING Disk usage at 91% on /dev/sda1
+[Normal] 2025-07-17 18:41:25 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 18:41:45 ERROR Failed password attempt for User Jack
+[Normal] 2025-07-17 18:42:59 WARNING Disk usage at 79% on /dev/sda1
+[Anomaly] 2025-07-17 18:43:40 CRITICAL System crash on node-02
+[Normal] 2025-07-17 18:44:17 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:45:18 INFO User Irene logged out
+[Normal] 2025-07-17 18:46:26 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 18:47:13 INFO User Paul logged out
+[Anomaly] 2025-07-17 18:47:44 ERROR Failed password attempt for User Paul
+[Normal] 2025-07-17 18:48:31 WARNING High memory usage detected
+[Normal] 2025-07-17 18:49:01 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 18:49:36 CRITICAL System crash on node-01
+[Normal] 2025-07-17 18:50:48 WARNING High CPU usage detected
+[Normal] 2025-07-17 18:51:24 WARNING High network latency detected
+[Normal] 2025-07-17 18:51:59 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 18:52:54 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:53:22 INFO User Jack logged in from 10.0.0.33
+[Normal] 2025-07-17 18:54:19 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 18:55:16 WARNING Disk usage at 76% on /dev/sda1
+[Normal] 2025-07-17 18:56:13 INFO User Mike logged out
+[Normal] 2025-07-17 18:56:57 INFO User Liam logged out
+[Normal] 2025-07-17 18:57:27 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 18:58:20 WARNING Disk usage at 81% on /dev/sda1
+[Normal] 2025-07-17 18:59:01 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 19:00:07 ERROR Unauthorized access to restricted file by User Frank
+[Normal] 2025-07-17 19:00:48 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 19:02:08 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:02:54 INFO User Alice logged out
+[Normal] 2025-07-17 19:03:51 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 19:04:17 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:04:40 INFO User Victor logged out
+[Normal] 2025-07-17 19:05:49 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:06:24 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 19:06:52 ERROR Unauthorized login attempt from 192.168.1.200
+[Normal] 2025-07-17 19:08:10 WARNING High CPU usage detected
+[Anomaly] 2025-07-17 19:09:23 ERROR Unauthorized access to restricted file by User Irene
+[Normal] 2025-07-17 19:10:04 WARNING High memory usage detected
+[Normal] 2025-07-17 19:10:39 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:11:52 INFO User Zach logged out
+[Normal] 2025-07-17 19:12:53 INFO User Henry logged in from 10.0.0.3
+[Anomaly] 2025-07-17 19:14:11 CRITICAL System crash on node-01
+[Normal] 2025-07-17 19:15:02 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:16:06 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:16:54 INFO User Xavier logged out
+[Normal] 2025-07-17 19:18:11 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:18:58 INFO User Oscar logged out
+[Normal] 2025-07-17 19:19:37 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:20:05 INFO User Paul logged in from 10.0.0.17
+[Normal] 2025-07-17 19:21:07 WARNING High network latency detected
+[Normal] 2025-07-17 19:22:27 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:23:20 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:24:05 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 19:24:25 ERROR Failed password attempt for User Liam
+[Anomaly] 2025-07-17 19:25:45 CRITICAL System crash on node-04
+[Normal] 2025-07-17 19:26:11 WARNING Disk usage at 94% on /dev/sda1
+[Normal] 2025-07-17 19:26:40 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 19:27:31 INFO User Mike logged out
+[Anomaly] 2025-07-17 19:28:44 ERROR Unauthorized login attempt from 192.168.1.61
+[Normal] 2025-07-17 19:29:21 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:30:24 WARNING Disk usage at 79% on /dev/sda1
+[Anomaly] 2025-07-17 19:31:41 ERROR Unauthorized login attempt from 192.168.1.31
+[Normal] 2025-07-17 19:32:06 INFO User Irene logged in from 10.0.0.22
+[Anomaly] 2025-07-17 19:32:46 ERROR Failed password attempt for User Rachel
+[Anomaly] 2025-07-17 19:33:27 CRITICAL System crash on node-04
+[Anomaly] 2025-07-17 19:34:26 ERROR Unauthorized login attempt from 192.168.1.76
+[Anomaly] 2025-07-17 19:35:45 ERROR Failed password attempt for User Uma
+[Normal] 2025-07-17 19:36:16 WARNING High network latency detected
+[Normal] 2025-07-17 19:37:22 INFO User Henry logged in from 10.0.0.1
+[Normal] 2025-07-17 19:37:58 INFO User Frank logged out
+[Normal] 2025-07-17 19:39:13 WARNING High CPU usage detected
+[Normal] 2025-07-17 19:39:58 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 19:40:22 WARNING High memory usage detected
+[Normal] 2025-07-17 19:40:45 INFO User Frank logged out
+[Anomaly] 2025-07-17 19:41:47 CRITICAL System crash on node-02
+[Anomaly] 2025-07-17 19:42:30 ERROR Unauthorized access to restricted file by User Oscar
+[Normal] 2025-07-17 19:43:28 WARNING High CPU usage detected
+[Normal] 2025-07-17 19:44:41 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:45:08 WARNING High network latency detected
+[Anomaly] 2025-07-17 19:45:46 ERROR Unauthorized access to restricted file by User Frank
+[Normal] 2025-07-17 19:47:03 INFO User Mike logged in from 10.0.0.32
+[Normal] 2025-07-17 19:47:36 INFO User Grace logged in from 10.0.0.2
+[Normal] 2025-07-17 19:48:14 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 19:49:04 ERROR Unauthorized access to restricted file by User Rachel
+[Normal] 2025-07-17 19:49:38 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:50:55 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 19:52:09 INFO User Nina logged out
+[Normal] 2025-07-17 19:52:30 INFO User Oscar logged out
+[Anomaly] 2025-07-17 19:53:00 ERROR Unauthorized login attempt from 192.168.1.70
+[Anomaly] 2025-07-17 19:53:47 ERROR Unauthorized access to restricted file by User Alice
+[Normal] 2025-07-17 19:55:06 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 19:55:43 ERROR Unauthorized access to restricted file by User Quinn
+[Normal] 2025-07-17 19:56:36 WARNING High network latency detected
+[Anomaly] 2025-07-17 19:57:09 CRITICAL System crash on node-03
+[Normal] 2025-07-17 19:57:51 INFO User Frank logged out
+[Normal] 2025-07-17 19:58:54 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 19:59:24 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 20:00:36 INFO User Kate logged in from 10.0.0.19
+[Normal] 2025-07-17 20:01:50 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 20:03:10 CRITICAL System crash on node-03
+[Normal] 2025-07-17 20:04:09 INFO User Kate logged in from 10.0.0.23
+[Normal] 2025-07-17 20:04:43 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 20:05:42 INFO User Alice logged in from 10.0.0.4
+[Anomaly] 2025-07-17 20:06:37 ERROR Failed password attempt for User Steve
+[Normal] 2025-07-17 20:06:58 WARNING High memory usage detected
+[Normal] 2025-07-17 20:07:27 INFO User Irene logged out
+[Normal] 2025-07-17 20:08:08 INFO User Victor logged in from 10.0.0.4
+[Normal] 2025-07-17 20:09:23 WARNING Disk usage at 90% on /dev/sda1
+[Normal] 2025-07-17 20:10:43 WARNING CPU temperature high: 88°C
+[Normal] 2025-07-17 20:11:31 INFO User Nina logged in from 10.0.0.18
+[Normal] 2025-07-17 20:12:14 INFO User Liam logged in from 10.0.0.34
+[Normal] 2025-07-17 20:13:24 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 20:14:02 INFO User Yolanda logged out
+[Normal] 2025-07-17 20:15:12 WARNING Disk usage at 82% on /dev/sda1
+[Normal] 2025-07-17 20:15:55 INFO User Frank logged in from 10.0.0.11
+[Normal] 2025-07-17 20:16:21 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 20:17:02 INFO User Zach logged in from 10.0.0.2
+[Normal] 2025-07-17 20:17:25 INFO User Paul logged out
+[Normal] 2025-07-17 20:17:50 INFO User Grace logged in from 10.0.0.24
+[Anomaly] 2025-07-17 20:18:47 ERROR Unauthorized access to restricted file by User Paul
+[Normal] 2025-07-17 20:19:07 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 20:20:07 CRITICAL System crash on node-03
+[Normal] 2025-07-17 20:21:26 INFO User Xavier logged out
+[Normal] 2025-07-17 20:22:15 INFO User Frank logged in from 10.0.0.35
+[Anomaly] 2025-07-17 20:22:48 ERROR Unauthorized access to restricted file by User Alice
+[Normal] 2025-07-17 20:23:30 WARNING CPU temperature high: 94°C
+[Anomaly] 2025-07-17 20:24:01 ERROR Unauthorized access to restricted file by User Oscar
+[Anomaly] 2025-07-17 20:24:25 ERROR Unauthorized access to restricted file by User Mike
+[Normal] 2025-07-17 20:25:24 WARNING High CPU usage detected
+[Normal] 2025-07-17 20:25:46 INFO User Irene logged out
+[Normal] 2025-07-17 20:26:24 INFO User Wendy logged in from 10.0.0.32
+[Anomaly] 2025-07-17 20:26:48 CRITICAL System crash on node-04
+[Normal] 2025-07-17 20:27:59 INFO User Tina logged in from 10.0.0.32
+[Normal] 2025-07-17 20:28:56 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 20:29:44 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 20:30:39 ERROR Unauthorized login attempt from 192.168.1.244
+[Normal] 2025-07-17 20:31:18 WARNING High memory usage detected
+[Normal] 2025-07-17 20:32:19 INFO User Mike logged in from 10.0.0.10
+[Normal] 2025-07-17 20:32:47 WARNING CPU temperature high: 95°C
+[Normal] 2025-07-17 20:33:34 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 20:34:04 INFO User Mike logged out
+[Anomaly] 2025-07-17 20:35:19 CRITICAL System crash on node-05
+[Normal] 2025-07-17 20:35:53 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 20:37:02 ERROR Unauthorized login attempt from 192.168.1.215
+[Normal] 2025-07-17 20:37:37 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 20:38:27 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 20:39:10 INFO User Alice logged in from 10.0.0.1
+[Anomaly] 2025-07-17 20:40:00 ERROR Unauthorized access to restricted file by User Irene
+[Normal] 2025-07-17 20:40:47 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 20:42:01 INFO User Victor logged in from 10.0.0.34
+[Normal] 2025-07-17 20:43:12 INFO User Mike logged in from 10.0.0.25
+[Anomaly] 2025-07-17 20:43:58 ERROR Unauthorized access to restricted file by User Paul
+[Normal] 2025-07-17 20:45:13 WARNING High memory usage detected
+[Normal] 2025-07-17 20:45:49 INFO User Jack logged out
+[Anomaly] 2025-07-17 20:46:47 ERROR Failed password attempt for User Frank
+[Normal] 2025-07-17 20:47:24 WARNING CPU temperature high: 89°C
+[Normal] 2025-07-17 20:48:34 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 20:49:42 INFO User Paul logged in from 10.0.0.30
+[Normal] 2025-07-17 20:50:02 WARNING CPU temperature high: 87°C
+[Normal] 2025-07-17 20:50:34 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 20:51:48 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 20:52:12 INFO User Grace logged out
+[Normal] 2025-07-17 20:53:32 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 20:54:17 INFO User Yolanda logged in from 10.0.0.5
+[Anomaly] 2025-07-17 20:55:26 ERROR Unauthorized login attempt from 192.168.1.198
+[Anomaly] 2025-07-17 20:55:49 ERROR Unauthorized access to restricted file by User Mike
+[Normal] 2025-07-17 20:56:43 INFO User Irene logged in from 10.0.0.6
+[Anomaly] 2025-07-17 20:57:13 ERROR Unauthorized login attempt from 192.168.1.243
+[Normal] 2025-07-17 20:57:45 INFO User Yolanda logged out
+[Normal] 2025-07-17 20:58:26 WARNING Disk usage at 94% on /dev/sda1
+[Anomaly] 2025-07-17 20:58:54 ERROR Unauthorized access to restricted file by User Paul
+[Normal] 2025-07-17 20:59:46 INFO User Alice logged out
+[Normal] 2025-07-17 21:00:56 INFO User Rachel logged in from 10.0.0.32
+[Normal] 2025-07-17 21:01:32 INFO User Jack logged out
+[Normal] 2025-07-17 21:02:38 WARNING High CPU usage detected
+[Normal] 2025-07-17 21:03:35 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 21:04:17 INFO User Paul logged out
+[Normal] 2025-07-17 21:05:00 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 21:05:34 WARNING High memory usage detected
+[Anomaly] 2025-07-17 21:06:38 ERROR Unauthorized access to restricted file by User Victor
+[Normal] 2025-07-17 21:07:24 WARNING High CPU usage detected
+[Normal] 2025-07-17 21:08:11 INFO User Wendy logged in from 10.0.0.6
+[Normal] 2025-07-17 21:09:30 INFO User Paul logged in from 10.0.0.6
+[Normal] 2025-07-17 21:10:16 INFO User Henry logged out
+[Normal] 2025-07-17 21:10:38 WARNING High network latency detected
+[Anomaly] 2025-07-17 21:11:12 ERROR Unauthorized login attempt from 192.168.1.47
+[Anomaly] 2025-07-17 21:12:24 ERROR Unauthorized access to restricted file by User Frank
+[Anomaly] 2025-07-17 21:13:06 CRITICAL System crash on node-01
+[Anomaly] 2025-07-17 21:14:26 ERROR Failed password attempt for User Henry
+[Normal] 2025-07-17 21:15:32 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 21:16:10 INFO User Liam logged in from 10.0.0.25
+[Normal] 2025-07-17 21:17:02 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 21:17:27 WARNING High network latency detected
+[Normal] 2025-07-17 21:18:45 WARNING High CPU usage detected
+[Normal] 2025-07-17 21:19:37 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 21:20:39 ERROR Failed password attempt for User Grace
+[Normal] 2025-07-17 21:21:56 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 21:22:27 WARNING Disk usage at 92% on /dev/sda1
+[Normal] 2025-07-17 21:23:34 WARNING Disk usage at 89% on /dev/sda1
+[Normal] 2025-07-17 21:24:40 INFO User Tina logged in from 10.0.0.6
+[Anomaly] 2025-07-17 21:25:30 ERROR Failed password attempt for User Liam
+[Normal] 2025-07-17 21:26:28 INFO User Nina logged out
+[Normal] 2025-07-17 21:27:04 INFO User Quinn logged out
+[Normal] 2025-07-17 21:28:19 INFO User Quinn logged in from 10.0.0.15
+[Anomaly] 2025-07-17 21:29:10 CRITICAL System crash on node-01
+[Anomaly] 2025-07-17 21:30:16 ERROR Failed password attempt for User Oscar
+[Normal] 2025-07-17 21:31:24 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 21:32:16 INFO User Nina logged in from 10.0.0.29
+[Normal] 2025-07-17 21:32:49 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 21:33:28 WARNING High CPU usage detected
+[Anomaly] 2025-07-17 21:34:01 ERROR Failed password attempt for User Uma
+[Normal] 2025-07-17 21:34:32 INFO User Steve logged in from 10.0.0.3
+[Normal] 2025-07-17 21:35:19 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 21:35:52 CRITICAL System crash on node-02
+[Normal] 2025-07-17 21:36:33 WARNING High CPU usage detected
+[Normal] 2025-07-17 21:37:22 INFO User Frank logged out
+[Normal] 2025-07-17 21:37:58 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 21:38:44 WARNING Disk usage at 86% on /dev/sda1
+[Normal] 2025-07-17 21:39:45 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 21:40:12 INFO User Kate logged in from 10.0.0.33
+[Anomaly] 2025-07-17 21:41:08 ERROR Failed password attempt for User Steve
+[Anomaly] 2025-07-17 21:41:56 ERROR Unauthorized access to restricted file by User Victor
+[Normal] 2025-07-17 21:42:58 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 21:44:16 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 21:44:39 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 21:45:08 INFO User Alice logged out
+[Normal] 2025-07-17 21:46:01 WARNING CPU temperature high: 86°C
+[Normal] 2025-07-17 21:47:01 INFO User Tina logged out
+[Anomaly] 2025-07-17 21:48:19 ERROR Unauthorized access to restricted file by User Frank
+[Anomaly] 2025-07-17 21:49:39 ERROR Unauthorized access to restricted file by User Rachel
+[Normal] 2025-07-17 21:50:17 INFO User Xavier logged out
+[Normal] 2025-07-17 21:51:23 INFO User Yolanda logged out
+[Normal] 2025-07-17 21:52:29 INFO User Paul logged in from 10.0.0.34
+[Normal] 2025-07-17 21:53:22 INFO User Yolanda logged in from 10.0.0.29
+[Normal] 2025-07-17 21:54:37 WARNING High network latency detected
+[Normal] 2025-07-17 21:55:02 WARNING Disk usage at 81% on /dev/sda1
+[Anomaly] 2025-07-17 21:55:35 CRITICAL System crash on node-03
+[Normal] 2025-07-17 21:56:35 INFO User Liam logged in from 10.0.0.27
+[Normal] 2025-07-17 21:57:49 INFO User Henry logged out
+[Normal] 2025-07-17 21:58:15 WARNING CPU temperature high: 95°C
+[Normal] 2025-07-17 21:58:42 WARNING CPU temperature high: 88°C
+[Normal] 2025-07-17 21:59:21 INFO User Uma logged out
+[Normal] 2025-07-17 21:59:43 INFO User Jack logged in from 10.0.0.8
+[Normal] 2025-07-17 22:00:31 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 22:01:31 INFO User Tina logged out
+[Normal] 2025-07-17 22:02:29 INFO User Zach logged in from 10.0.0.26
+[Anomaly] 2025-07-17 22:02:58 ERROR Unauthorized access to restricted file by User Victor
+[Normal] 2025-07-17 22:03:29 WARNING High network latency detected
+[Normal] 2025-07-17 22:04:15 WARNING High CPU usage detected
+[Normal] 2025-07-17 22:05:31 INFO User Irene logged in from 10.0.0.29
+[Normal] 2025-07-17 22:06:36 INFO User Kate logged out
+[Normal] 2025-07-17 22:07:49 INFO User Xavier logged in from 10.0.0.31
+[Normal] 2025-07-17 22:08:51 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 22:09:27 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 22:10:00 INFO User Alice logged in from 10.0.0.13
+[Normal] 2025-07-17 22:10:25 INFO User Irene logged in from 10.0.0.21
+[Normal] 2025-07-17 22:11:07 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 22:11:27 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 22:12:04 WARNING CPU temperature high: 92°C
+[Normal] 2025-07-17 22:12:54 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 22:13:53 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 22:15:02 ERROR Failed password attempt for User Henry
+[Normal] 2025-07-17 22:15:36 WARNING High memory usage detected
+[Normal] 2025-07-17 22:16:24 INFO User Zach logged in from 10.0.0.6
+[Normal] 2025-07-17 22:17:30 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 22:18:09 ERROR Unauthorized login attempt from 192.168.1.121
+[Anomaly] 2025-07-17 22:18:56 ERROR Unauthorized access to restricted file by User Uma
+[Normal] 2025-07-17 22:19:16 INFO User Paul logged in from 10.0.0.9
+[Normal] 2025-07-17 22:20:17 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 22:21:30 ERROR Unauthorized login attempt from 192.168.1.206
+[Normal] 2025-07-17 22:22:27 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 22:23:17 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 22:24:27 INFO User Rachel logged in from 10.0.0.3
+[Anomaly] 2025-07-17 22:25:06 ERROR Unauthorized access to restricted file by User Victor
+[Anomaly] 2025-07-17 22:25:55 CRITICAL System crash on node-02
+[Anomaly] 2025-07-17 22:26:33 CRITICAL System crash on node-04
+[Normal] 2025-07-17 22:27:03 INFO User Rachel logged out
+[Normal] 2025-07-17 22:27:26 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 22:28:15 CRITICAL System crash on node-03
+[Normal] 2025-07-17 22:28:50 INFO User Liam logged out
+[Anomaly] 2025-07-17 22:29:26 ERROR Unauthorized access to restricted file by User Wendy
+[Normal] 2025-07-17 22:29:54 WARNING High CPU usage detected
+[Anomaly] 2025-07-17 22:30:44 ERROR Failed password attempt for User Tina
+[Normal] 2025-07-17 22:31:07 WARNING High memory usage detected
+[Normal] 2025-07-17 22:31:52 INFO User Nina logged out
+[Normal] 2025-07-17 22:32:45 INFO User Irene logged in from 10.0.0.8
+[Normal] 2025-07-17 22:33:59 INFO User Steve logged in from 10.0.0.26
+[Normal] 2025-07-17 22:34:34 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 22:35:11 INFO User Kate logged out
+[Normal] 2025-07-17 22:35:39 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 22:36:20 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 22:37:01 WARNING Disk usage at 83% on /dev/sda1
+[Normal] 2025-07-17 22:38:20 INFO User Victor logged in from 10.0.0.34
+[Anomaly] 2025-07-17 22:38:45 ERROR Failed password attempt for User Irene
+[Anomaly] 2025-07-17 22:40:01 ERROR Unauthorized access to restricted file by User Tina
+[Normal] 2025-07-17 22:40:50 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 22:41:30 WARNING High CPU usage detected
+[Normal] 2025-07-17 22:42:14 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 22:42:50 ERROR Unauthorized login attempt from 192.168.1.217
+[Normal] 2025-07-17 22:44:10 INFO User Jack logged out
+[Anomaly] 2025-07-17 22:44:40 ERROR Unauthorized access to restricted file by User Irene
+[Normal] 2025-07-17 22:45:37 INFO User Steve logged in from 10.0.0.15
+[Normal] 2025-07-17 22:46:55 WARNING High network latency detected
+[Anomaly] 2025-07-17 22:48:01 CRITICAL System crash on node-03
+[Anomaly] 2025-07-17 22:48:56 CRITICAL System crash on node-01
+[Normal] 2025-07-17 22:50:02 INFO User Frank logged out
+[Normal] 2025-07-17 22:51:13 INFO User Yolanda logged out
+[Normal] 2025-07-17 22:52:23 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 22:53:25 INFO User Oscar logged out
+[Normal] 2025-07-17 22:53:58 WARNING Disk usage at 93% on /dev/sda1
+[Normal] 2025-07-17 22:54:29 WARNING CPU temperature high: 85°C
+[Anomaly] 2025-07-17 22:55:06 ERROR Unauthorized login attempt from 192.168.1.92
+[Normal] 2025-07-17 22:56:23 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 22:56:47 WARNING CPU temperature high: 94°C
+[Anomaly] 2025-07-17 22:57:58 ERROR Unauthorized login attempt from 192.168.1.187
+[Normal] 2025-07-17 22:58:31 WARNING High network latency detected
+[Normal] 2025-07-17 22:59:41 INFO User Tina logged out
+[Anomaly] 2025-07-17 23:00:09 ERROR Failed password attempt for User Kate
+[Normal] 2025-07-17 23:01:27 WARNING High CPU usage detected
+[Anomaly] 2025-07-17 23:02:21 CRITICAL System crash on node-01
+[Normal] 2025-07-17 23:02:54 INFO User Uma logged in from 10.0.0.32
+[Normal] 2025-07-17 23:03:53 INFO Scheduled job 'cleanup' started
+[Anomaly] 2025-07-17 23:05:08 ERROR Unauthorized login attempt from 192.168.1.106
+[Normal] 2025-07-17 23:05:48 INFO User Alice logged out
+[Anomaly] 2025-07-17 23:06:25 ERROR Failed password attempt for User Frank
+[Anomaly] 2025-07-17 23:07:40 ERROR Unauthorized login attempt from 192.168.1.156
+[Normal] 2025-07-17 23:08:32 INFO User Irene logged out
+[Normal] 2025-07-17 23:09:33 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 23:10:04 WARNING High network latency detected
+[Normal] 2025-07-17 23:10:55 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 23:11:26 ERROR Unauthorized access to restricted file by User Steve
+[Normal] 2025-07-17 23:12:24 WARNING High network latency detected
+[Normal] 2025-07-17 23:13:10 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 23:13:56 WARNING Disk usage at 86% on /dev/sda1
+[Normal] 2025-07-17 23:14:27 INFO User Uma logged out
+[Normal] 2025-07-17 23:15:08 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 23:15:46 CRITICAL System crash on node-03
+[Normal] 2025-07-17 23:16:44 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 23:17:44 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 23:18:36 INFO User Victor logged out
+[Normal] 2025-07-17 23:18:59 WARNING CPU temperature high: 92°C
+[Normal] 2025-07-17 23:19:22 INFO User Liam logged out
+[Normal] 2025-07-17 23:20:42 INFO User Liam logged in from 10.0.0.32
+[Normal] 2025-07-17 23:21:52 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 23:22:25 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 23:22:50 ERROR Unauthorized login attempt from 192.168.1.166
+[Normal] 2025-07-17 23:23:28 INFO User Kate logged in from 10.0.0.34
+[Normal] 2025-07-17 23:24:38 WARNING High network latency detected
+[Normal] 2025-07-17 23:25:04 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 23:25:56 WARNING Disk usage at 93% on /dev/sda1
+[Normal] 2025-07-17 23:26:51 INFO User Victor logged in from 10.0.0.24
+[Normal] 2025-07-17 23:28:02 INFO User Yolanda logged in from 10.0.0.30
+[Normal] 2025-07-17 23:29:05 INFO User Irene logged out
+[Normal] 2025-07-17 23:29:32 INFO User Paul logged out
+[Normal] 2025-07-17 23:30:13 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 23:30:57 INFO Scheduled job 'cleanup' completed
+[Anomaly] 2025-07-17 23:31:26 ERROR Unauthorized login attempt from 192.168.1.56
+[Normal] 2025-07-17 23:32:14 WARNING High CPU usage detected
+[Normal] 2025-07-17 23:32:38 WARNING High network latency detected
+[Anomaly] 2025-07-17 23:33:48 CRITICAL System crash on node-03
+[Anomaly] 2025-07-17 23:34:24 CRITICAL System crash on node-01
+[Normal] 2025-07-17 23:35:35 WARNING High network latency detected
+[Anomaly] 2025-07-17 23:36:06 ERROR Failed password attempt for User Steve
+[Normal] 2025-07-17 23:37:22 WARNING High CPU usage detected
+[Normal] 2025-07-17 23:37:48 INFO User Irene logged in from 10.0.0.7
+[Anomaly] 2025-07-17 23:38:42 CRITICAL System crash on node-02
+[Normal] 2025-07-17 23:39:15 WARNING CPU temperature high: 94°C
+[Normal] 2025-07-17 23:40:32 WARNING CPU temperature high: 93°C
+[Normal] 2025-07-17 23:41:44 INFO User Nina logged in from 10.0.0.30
+[Anomaly] 2025-07-17 23:42:15 CRITICAL System crash on node-01
+[Anomaly] 2025-07-17 23:43:02 CRITICAL System crash on node-04
+[Normal] 2025-07-17 23:43:55 INFO User Liam logged in from 10.0.0.8
+[Normal] 2025-07-17 23:45:15 WARNING High memory usage detected
+[Normal] 2025-07-17 23:46:08 INFO Scheduled job 'cleanup' completed
+[Normal] 2025-07-17 23:47:28 INFO User Wendy logged in from 10.0.0.28
+[Anomaly] 2025-07-17 23:48:37 ERROR Failed password attempt for User Victor
+[Normal] 2025-07-17 23:49:56 WARNING High CPU usage detected
+[Normal] 2025-07-17 23:50:19 INFO Scheduled job 'cleanup' started
+[Normal] 2025-07-17 23:50:51 INFO User Xavier logged out
+[Normal] 2025-07-17 23:51:39 INFO Scheduled job 'cleanup' completed
