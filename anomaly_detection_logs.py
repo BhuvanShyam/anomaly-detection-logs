@@ -29,3 +29,6 @@ for line in raw_logs:
             "log": line,
             "template": result["template_mined"]
         })
+
+# Create DataFrame
+df = pd.DataFrame(parsed_logs)
