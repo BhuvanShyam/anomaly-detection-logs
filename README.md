@@ -81,7 +81,7 @@ Modern IT systems generate large volumes of unstructured log data, making it cha
 ```bash
 # Clone the repo
 git clone https://github.com/BhuvanShyam/anomaly-detection-logs.git
-cd Anomaly-detection-logs
+cd Anomaly-detection
 
 # Install dependencies
 pip install -r requirements.txt
